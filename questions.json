@@ -1,0 +1,92 @@
+[
+    {
+      "question": " Which type of JavaScript language is ___?",
+      "choice1": "Object-Oriented",
+      "choice2": "Object-Based",
+      "choice3": "Assembly-language",
+      "choice4": "High-level",
+      "answer": 2
+    },
+    {
+      "question": "In JavaScript, what is a block of statement?'?",
+      "choice1": "Conditional block",
+      "choice2": "block that combines a number of statements into a single compound statement'>",
+      "choice3": "both conditional block and a single statement'>",
+      "choice4": "block that contains a single statement'>",
+      "answer": 2
+    },
+    {
+      "question": " When interpreter encounters an empty statements, what it will do",
+      "choice1": "Shows a warning",
+      "choice2": "Prompts to complete the statement",
+      "choice3": "Throws an error",
+      "choice4": "Ignores the statements",
+      "answer": 4
+    },
+    {
+        "question": "The function and var are known as:",
+        "choice1": "Keywords",
+        "choice2": "Data types",
+        "choice3": "Declaration statements",
+        "choice4": "Prototypes",
+        "answer": 3
+      },
+      {
+        "question": "Which of the following variables takes precedence over the others if the names are the same?",
+        "choice1": "Global variable",
+        "choice2": "The local element",
+        "choice3": "The two of the above",
+        "choice4": "None of the above",
+        "answer": 2
+      },
+      {
+        "question": "Which one of the following is the correct way for calling the JavaScript code?",
+        "choice1": "Preprocessor",
+        "choice2": "Triggering Event",
+        "choice3": "RMI",
+        "choice4": "Function/Method",
+        "answer": 4
+      },
+      {
+        "question": "Which of the following type of a variable is volatile?",
+        "choice1": "Mutable variable",
+        "choice2": "Dynamic variable",
+        "choice3": "Volatile variable",
+        "choice4": "Immutable variable",
+        "answer": 1
+      },
+      {
+        "question": "Which of the following option is used as hexadecimal literal beginning?",
+        "choice1": "00",
+        "choice2": "0x",
+        "choice3": "0X",
+        "choice4": "Both 0x and 0X",
+        "answer": 4
+      },
+      {
+        "question": "When there is an indefinite or an infinite value during an arithmetic computation in a program, then JavaScript prints______.",
+        "choice1": "Prints an exception error",
+        "choice2": "Prints an overflow error'>",
+        "choice3": "Displays Infinity",
+        "choice4": "Prints the value as such",
+        "answer": 3
+      },
+      {
+        "question": "In the JavaScript, which one of the following is not considered as an error:",
+        "choice1": "Syntax error",
+        "choice2": "Missing of semicolons",
+        "choice3": "Division by zero",
+        "choice4": "Missing of Bracket",
+        "answer": 3
+      },
+      {
+        "question": "Which of the following number object function returns the value of the number?",
+        "choice1": "toString()",
+        "choice2": "valueOf()",
+        "choice3": "toLocaleString()",
+        "choice4": "toLocaleString()",
+        "answer": 2
+      }
+     
+
+  ]
